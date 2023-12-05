@@ -1,0 +1,56 @@
+[{
+    "id":1,
+    "Name": "Sushi",
+    "Origin":"Ancient Southeast Asia ",
+    "Type":"Asian Cuisine",
+    "Popularity": "Immense global popularity",
+    "Rating": "7/10",
+    "Review":"There are countless variations of sushi, each with its unique flavor profile and texture"
+    
+
+},
+{
+    "id":2,
+    "Name": "Pasta",
+    "Origin":"ancient civilizations like the Etruscans and Romans.",
+    "Type":"Italian Cuisine",
+    "Popularity": "Global popularity of pasta as a staple food",
+    "Rating": "8/10",
+    "Review":"A versatile, globally beloved comfort food, cherished for its adaptability, cultural significance, and ability to please diverse palates worldwide"
+},
+{
+    "id":3,
+    "Name": "Tacos",
+    "Origin":"Mexico",
+    "Type":"Mexican Cuisine",
+    "Popularity": "Wide-popular spread as a street food stalls to high end restaurants",
+    "Rating": "8/10",
+    "Review":"A flavorful delight from Mexico, offering a perfect blend of fresh ingredients, diverse fillings, and vibrant flavors, making them a global favorite for their versatility and deliciousness"
+},
+{
+    "id":4,
+    "Name": "Biryani",
+    "Origin":"Mughal Emphire from persia",
+    "Type":"South Asian Cuisine",
+    "Popularity": "Popular in South-Asian and Middle eastern",
+    "Rating": "10/10",
+    "Review":"A fragrant and flavorful South Asian dish celebrated for its aromatic spices, layered rice, and tender meat or vegetable options. Its rich taste and cultural significance make it a cherished culinary delight globally"
+},
+  {
+    "id":5,
+    "Name": "Croissant",
+    "Origin":"Viennese Origin",
+    "Type":"French Cuisine",
+    "Popularity": "World-wide Popularity",
+    "Rating": "8/10",
+    "Review":"The delightful taste, unique texture, and cultural significance of croissants have made them a beloved pastry, enjoyed by people of diverse tastes and backgrounds worldwide."
+},
+{
+    "id":6,
+    "Name": "Pizza",
+    "Origin":"Naples in Italy",
+    "Type":"Italian Cuisine",
+    "Popularity": "Most popular and widely consumed dishes globally",
+    "Rating": "9/10",
+    "Review":"A universally adored dish celebrated for its customizable nature, diverse flavors, and comforting appeal. Its global popularity as a go-to comfort food stems from its versatility and ability to cater to varied tastes."
+}]
